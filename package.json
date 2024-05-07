@@ -1,0 +1,9 @@
+{
+    "name": "my-task",
+    "version": "1.0.0",
+    "description": "My Task App Engine",
+    "main": "server.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
